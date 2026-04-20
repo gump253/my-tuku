@@ -73,5 +73,15 @@
     "scale": 6,
     "smea": false,
     "variety": false
+  },
+  "c_1776688961560": {
+    "name": "CG强氛版",
+    "suffix": "masterpiece, best quality, ultra-detailed, 8K, UHD, \ngame CG, anime illustration, cinematic lighting, soft backlighting, rim light, \nglossy fabric texture, detailed hair strands, delicate facial features, \nsharp focus, depth of field, elegant aesthetic, clean rendering",
+    "neg": "low quality, blurry, messy lines, ugly face, deformed eyes, extra limbs, text, watermark, signature, monochrome, flat color, bad anatomy, distorted proportions, dull lighting, lack of detail, cartoonish, chibi",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 6,
+    "smea": false,
+    "variety": false
   }
 }
