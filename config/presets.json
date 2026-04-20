@@ -53,5 +53,15 @@
     "variety": false,
     "suffix": "{artist:ratatatat74}, detailed, high quality, {{{glistening skin}}}, {{sweat}}, {wet skin}, {oily skin}, {detailed skin}, [skin texture], {{dramatic lighting}}, {{high contrast}}, {volumetric light}, {rim lighting}, {warm lighting}, soft shading, {detailed background}",
     "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, bad face, distorted face, flat lighting, flat shading, cel shading, simple shading, dry skin, matte skin, soft lighting, overexposed, washed out, sketch, lineart, outline"
+  },
+  "c_1776684969653": {
+    "name": "华丽二次元CG质感",
+    "suffix": "masterpiece, best quality, ultra-detailed, 8k, UHD, photorealistic skin texture, cinematic lighting, soft backlighting, rim light, sharp focus, depth of field, \n game CG, anime illustration, high contrast, vibrant colors, intricate details",
+    "neg": "low quality, blurry, messy lines, ugly face, deformed eyes, extra limbs, text, watermark, signature, monochrome, flat color, bad anatomy, distorted proportions, dull lighting, lack of detail, cartoonish, chibi",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 6,
+    "smea": false,
+    "variety": false
   }
 }
