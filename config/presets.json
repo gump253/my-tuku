@@ -63,5 +63,15 @@
     "scale": 6,
     "smea": false,
     "variety": false
+  },
+  "c_1776687905153": {
+    "name": "再试",
+    "suffix": "{{{{masterpiece}}}}, {{{{best quality}}}}, {{{ultra-detailed}}}, 8K, UHD,\n{{{{game CG}}}}, {{{anime illustration}}},\n{{{{cinematic lighting}}}}, {{{{soft backlighting}}}}, {{{{rim light}}}}, {{{{light rays}}}}, {{{{particle effects}}}}, {{{{soft glow}}}},\n{{{{glossy fabric texture}}}}, {{{{detailed hair strands}}}}, {{{{silky hair}}}},\n{{delicate facial features}},\n{{sharp focus}}, {{depth of field}},\n{{elegant aesthetic}},\n-1.5::blurry::\n-1.5::ugly face::\n-1.5::deformed::\n-1.5::missing fingers::\n-1.5::extra limbs::\n-1.5::text::\n-1.5::watermark::\n-1.5::signature::",
+    "neg": "low quality, blurry, messy lines, ugly face, deformed eyes, extra limbs, text, watermark, signature, monochrome, flat color, bad anatomy, distorted proportions, dull lighting, lack of detail, cartoonish, chibi",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 6,
+    "smea": false,
+    "variety": false
   }
 }
