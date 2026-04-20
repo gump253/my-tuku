@@ -56,7 +56,7 @@
   },
   "c_1776684969653": {
     "name": "华丽二次元CG质感",
-    "suffix": "masterpiece, best quality, ultra-detailed, 8k, UHD, photorealistic skin texture, cinematic lighting, soft backlighting, rim light, sharp focus, depth of field, \n game CG, anime illustration, high contrast, vibrant colors, intricate details",
+    "suffix": "masterpiece, best quality, ultra-detailed, 8K, UHD, \n game CG, anime illustration, cinematic lighting, soft backlighting, rim light, \n glossy fabric texture, detailed hair strands, delicate facial features, \n sharp focus, depth of field, elegant aesthetic, clean rendering",
     "neg": "low quality, blurry, messy lines, ugly face, deformed eyes, extra limbs, text, watermark, signature, monochrome, flat color, bad anatomy, distorted proportions, dull lighting, lack of detail, cartoonish, chibi",
     "sampler": "k_euler_ancestral",
     "steps": 28,
