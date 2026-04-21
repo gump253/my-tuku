@@ -1,10 +1,14 @@
 {
   "Bibi Dong": {
-    "source": "Soul Land Wiki：Bibi Dong",
+    "source": "Bibi Dong,Soul Land",
     "appearance": ""
   },
   "苏恩": {
     "source": "",
     "appearance": "1girl, long black hair, straight bangs, brown eyes, pale skin, slim figure, soft facial features，,(black ribbed high-neck backless knit sweater:0.5)，(loose-fitting:0.4),\n(long sleeves:0.4),\n(exposed back:0.5),\n(black ribbed knee-high cotton socks:0.4),\n(calf-length:0.4),\n(thick knit texture:0.4)"
+  },
+  "桃苏": {
+    "source": "Taosu, Magic Ayou",
+    "appearance": ""
   }
 }
