@@ -85,7 +85,7 @@
     "variety": false
   },
   "c_1776990847966": {
-    "name": "测试",
+    "name": "测试+负",
     "suffix": "houkisei,misaka_12003-gou,meion,[kaede_(sayappa),dishwasher1910],reoen, sencha_(senchat),you_shimizu",
     "neg": "(worst quality, low quality, normal quality), jpeg artifacts, blurry, fuzzy, ugly, deformed, disfigured, mutated, extra limbs, missing limbs, bad anatomy, bad hands, bad fingers, extra fingers, missing fingers, floating limbs, wrong anatomy, mutated hands, mutated fingers, watermark, text, signature, error, cropped, oversaturated, flat color, dull color, noisy, grainy",
     "sampler": "k_euler_ancestral",
