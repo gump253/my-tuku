@@ -93,5 +93,15 @@
     "scale": 6,
     "smea": false,
     "variety": false
+  },
+  "c_1777005855181": {
+    "name": "测试",
+    "suffix": "houkisei,misaka_12003-gou,meion,[kaede_(sayappa),dishwasher1910],reoen, sencha_(senchat),you_shimizu",
+    "neg": "",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 6,
+    "smea": false,
+    "variety": false
   }
 }
