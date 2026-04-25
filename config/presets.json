@@ -105,9 +105,19 @@
     "variety": false
   },
   "c_1777090799046": {
-    "name": "精致",
+    "name": "哈基手_精致",
     "suffix": "1.4::artist:huwari_(dnwls3010) ::, 1.3::artist:mitsu_(mitsu_art) ::, 1.3::artist:96yottea ::, 1.2::artist:mx2j ::, 1.2::artist:misaka12003-gou ::, 1.8::artist:nishigori_atsushi ::, 1.8::artist:rella ::, 1.9::artist:horn/wood ::, 2::artist:channel_(caststation) ::, 1.6::artist:na_tarapisu153 ::, 1.52::artist:haneru ::, 1.48::artist:paint_musume ::, 1.42::artist:torino_aqua ::, 1.75::Artist:bm94199 ::, 0.75::Artist:nixeu ::,\n\n25::masterpiece, best quality, absurdres, very aesthetic, detailed, highres ::, Colorful, year 2025, perspective, Sharp well-defined pupils,2.5D, anime 3D, cel-shading, toon shading,1.2::subsurface scattering, skin texture, skin pores, specular highlights::,-2::simple illustration, downscaled, 2koma, multiple_boys, multiple view, artist collaboration::,\n\n\n\n, 2.5::photorealistic details::, 1.6::immersive atmosphere::,\n\nprofessional lighting, volumetric lighting, soft shadows, very aesthetic, masterpiece, no text, masterpiece, best quality, aesthetic, absurdres, year 2025, (extremely detailed:1.2)",
     "neg": "lowres,artistic error,film grain,scan artifacts,worst quality,bad quality,jpeg artifacts,very displeasing,chromatic aberration,dithering,halftone,screentone,multiple views,logo,too many watermarks,negative space,blank page,@_@,mismatched pupils,glowing eyes,bad anatomy,blurry,lowres,error,film grain,scan artifacts,worst quality,bad quality,jpeg artifacts,very displeasing,chromatic aberration,multiple views,too many watermarks,{{worst quality,bad quality}},bad pupils,bad glabella,{{{{bad hands}}}},{{{bad eyes}}},{{{{{displeasing,very displeasing}}}}},{{{{{bad anatomy,bad hands,missing finger,bad face,duplicate,mutation,deformed,disfigured,extra arms,extra legs,long neck,bad feet,bad proportions,missing}}}}},{{{undetailed eyes}}},bb (baalbuddy),bkub,gaoo (frpjx283),milkpanda,nameo (judgemasterkou),yuno385,fat,old,variant set,large variant set,lowres,artistic error,film grain,scan artifacts,worst quality,bad quality,jpeg artifacts,very displeasing,chromatic aberration,dithering,halftone,screentone,multiple views,logo,too many watermarks,negative space,blank page,@_@,mismatched pupils,glowing eyes,bad anatomy,blurry,lowres,error,film grain,scan artifacts,worst quality,bad quality,jpeg artifacts,very displeasing,chromatic aberration,multiple views,too many watermarks,{{worst quality,bad quality}},bad pupils,bad glabella,{{{{bad hands}}}},{{{bad eyes}}},{{{{{displeasing,very displeasing}}}}},{{{{{bad anatomy,bad hands,missing finger,bad face,duplicate,mutation,deformed,disfigured,extra arms,extra legs,long neck,bad feet,bad proportions,missing}}}}},{{{undetailed eyes}}},bb (baalbuddy),bkub,gaoo (frpjx283),milkpanda,nameo (judgemasterkou),yuno385,fat",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 6,
+    "smea": false,
+    "variety": false
+  },
+  "c_1777091076704": {
+    "name": "愕然回首",
+    "suffix": "5::best quality, absurdres, very aesthetic, detailed, masterpiece::, 1.2::misaka12003-gou ::, 0.8::dino(dinoartforame), wanke, liduke ::, year 2025, 2::realistic, 4k::, 2::Real skin radiance::,1.5::photorealistic::, 1.5::photo(medium)::, 1.5::oily shiny skin ,Sexy ::",
+    "neg": "lowres, {bad}, error, fewer, extra, missing, worst quality, jpeg artifacts, bad quality, watermark, signature, extra digits, artistic error, username, scan, bad anatomy, bad hands, bad feet, extra fingers, missing fingers, fused fingers, too many fingers, long neck, cross-eyed, asymmetrical eyes, disfigured, malformed limbs, extra limbs, missing limbs, polar lowres, bad proportions, multiple people，x-ray，",
     "sampler": "k_euler_ancestral",
     "steps": 28,
     "scale": 6,
