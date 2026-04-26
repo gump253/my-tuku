@@ -173,5 +173,15 @@
     "scale": 6,
     "smea": false,
     "variety": false
+  },
+  "c_1777211741073": {
+    "name": "浮世绘",
+    "suffix": "2.0::Ukiyo-e ::,\n1.5::Japanese woodblock print ::,\n1.5::woodblock texture ::,\n1.5::bijin-ga (beauty painting) ::,\n1.5::Artist:Kitagawa Utamaro ::,\n0.7::Artist:tedain ::,\nTraditional Japanese art, flat colors, bold colors, strong outline, minimal shading, textured background,  intricate patterns, gold leaf accents, Edo period, muted colors, asymmetrical composition",
+    "neg": "low quality, cartoonish, modern clothing,\nphotorealistic details, vibrant colors,\ncrowded elements, English text, anime eyes,\nmechanical parts, perfect symmetry, oversaturated",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 6,
+    "smea": false,
+    "variety": false
   }
 }
