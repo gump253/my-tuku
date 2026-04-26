@@ -163,5 +163,15 @@
     "scale": 6,
     "smea": false,
     "variety": false
+  },
+  "c_1777210968043": {
+    "name": "手绘3D",
+    "suffix": "0.9::misaka12003-gou ::, dino(dinoartforame), wanke, liduke, \nyear 2025, realistic, 4k, \n-2::green ::, textless version, \nThe image is highly intricate finished drawn. \nOnly the character's face is in anime style, but their body is in realistic style. \n1.35::A highly finished photo-style artwork that has lively color, graphic texture, realistic skin surface, and lifelike flesh with little obliques::. \n1.63::photorealistic::, 1.63::photo(medium)::, \n20::best quality, absurdres, very aesthetic, detailed, masterpiece::, \nvery aesthetic, masterpiece, no text",
+    "neg": "lowres, worst quality, low quality, bad quality, jpeg artifacts, blurry, chromatic aberration, film grain, scan artifacts, dithering, halftone, screentone, signature, watermark, username, text, logo, too many watermarks, bad anatomy, deformed, extra limbs, extra fingers, missing fingers, fused fingers, too many fingers, poorly drawn hands, mutated hands, bad proportions, gross proportions, long neck, extra elements, missing elements, fewer elements, multiple views, negative space, blank page, abstract, artistic error, displeasing, unfinished, very displeasing, error, mutation, disfigured, out of frame, cloned face, morbid, mutilated, duplicate, monochrome, see-through, transparent, sheer, translucent, semi-transparent, thin fabric, visible through clothes, nipple outline, cleavage through fabric, mask, face mask, surgical mask, medical mask, mouth covered, covering face, hoodie mask,",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 6,
+    "smea": false,
+    "variety": false
   }
 }
