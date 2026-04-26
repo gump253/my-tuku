@@ -145,7 +145,7 @@
     "variety": false
   },
   "c_1777208362344": {
-    "name": "萝莉漫风",
+    "name": "萝莉Q漫风",
     "suffix": "2.0::artist:chen_bin::,1.2::artist:tianliang_duohe_fangdongye::,2.5::artist:1ssakawaguchi::,1.5::artist:kuroida::,1.0::artist:mrw::,years2025,best quality,masterpiece,delicate details,solo,-5::artist collaboration::,2::soft lighting::",
     "neg": "glare,3::overexposure,washed out,bloom::,backlighting,lowres, artistic error, film grain, scan artifacts, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, halftone, screentone, multiple views, logo, too many watermarks, negative space, blank page, lowres, artistic error, film grain, scan artifacts, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, halftone, screentone, multiple views, logo, too many watermarks, negative space, blank page, low quality, worst quality,artist collaboration ,bad anatomy,extra fingers,extra legs, missing legs, missing fingers, unnatural body, bad proportions, deformed hands, unrealistic eyes, plastic skin, doll-like, blurry background, poorly drawn face, text, watermark, abstract background, low resolution,",
     "sampler": "k_euler_ancestral",
