@@ -123,5 +123,15 @@
     "scale": 6,
     "smea": false,
     "variety": false
+  },
+  "c_1777206793267": {
+    "name": "神串?",
+    "suffix": "1.2::misaka12003-gou ::, 0.8::dino(dinoartforame), wanke, liduke ::, year 2025, realistic, 4k, 1.5::photorealistic::, 1.5::photo(medium)::, 20::best quality, absurdres, very aesthetic, detailed, masterpiece::",
+    "neg": "lowres, artistic error, film grain, scan artifacts, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, halftone, screentone, multiple views, logo, too many watermarks, negative space, blank page, worst quality,low quality,artist collaboration, bad anatomy,extra fingers,extra legs, missing legs, missing fingers, mutation, text, watermark, low resolution,",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 6,
+    "smea": false,
+    "variety": false
   }
 }
