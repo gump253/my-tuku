@@ -183,5 +183,15 @@
     "scale": 6,
     "smea": false,
     "variety": false
+  },
+  "c_1777212320636": {
+    "name": "二次元温暖风",
+    "suffix": "4::masterpiece, best quality ::, 2::official art, year2025 ::, 1.55::artist:nobusawa_osamu ::, 1.55::artist:tedain ::, 0.65::artist:houkisei ::, -2::3D, chibi,realistic ::, no text",
+    "neg": "worst quality,low quality,artist collaboration, bad anatomy,extra fingers,extra legs, missing legs, missing fingers, mutation, text, watermark, low resolution",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 6,
+    "smea": false,
+    "variety": false
   }
 }
