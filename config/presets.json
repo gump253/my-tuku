@@ -133,5 +133,15 @@
     "scale": 6,
     "smea": false,
     "variety": false
+  },
+  "c_1777207326322": {
+    "name": "清亮串",
+    "suffix": "year 2026, year 2025,year 2024,1.2::low saturation::\n\n1.2::artist bibi_booom ::,\n0.9::artist mian_lang ::,\n0.7::artist dsmile ::,\n0.7::artist kaninn ::,\n1.2::artist jing_zhi_kaoxiang_yu_re_zhong ::,\n0.8::artist 96yottea ::,\n0.7::artist jacknife ::,\n0.7::artist nanoka_san ::,\n1.1::artist eteru ::,\n0.9::artist pigeon666 ::,\n0.9::artist nozaki_tsubata ::,\n0.5::artist ask_(askzy) ::,\n0.6::artist norizc ::,\nmasterpiece, newest,highres,proper body proportions,1.05::slightly faded tones::,body positioning,grounded figures,slightly faded tones,logical spatial relationship between characters,high quality background, balanced composition, natural spatial relationship between characters,1.3::matte skin texture::,exquisite features",
+    "neg": "text, logo, 2::signature, watermark::, too many watermarks, artist:gaoo (frpjx283), artist:matsunaga kouyou, artist:nameo (judgemasterkou), artist:bb (baalbuddy), 1990s (style), bad anatomy, distorted anatomy, disfigured, bad hands, missing finger, extra digits, fewer digits, mutation, extra arms, extra legs, long neck, bad feet, very displeasing, undetailed eyes, multiple views, negative space, blank page, variant set, large variant set, oekaki, halftone, screentone, artistic error, film grain, scan artifacts, jpeg artifacts, chromatic aberration, dithering, disorganized colors, lowres, worst quality, bad quality, cheesy, sloppiness, unfinished, Incomplete, colored inner hair,",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 6,
+    "smea": false,
+    "variety": false
   }
 }
