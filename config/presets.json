@@ -193,5 +193,15 @@
     "scale": 6,
     "smea": false,
     "variety": false
+  },
+  "c_1777254339865": {
+    "name": "鸭子的",
+    "suffix": "[[[artist:dishwasher1910]]], {{yd_(orange_maru)}}, [artist:ciloranko], [artist:sho_(sho_lwlw)], [ningen_mame], year_2025, newest,",
+    "neg": "{{{worst_quality}}}, {{{low_quality}}}, {{{lowres}}},\n{{{bad_hands}}}, {{{poorly_drawn_hands}}}, {{{fused_fingers}}}, {{{wrong_fingers}}},\n{{bad_face}}, {{poorly_drawn_face}}, {{blurry_face}}, {{asymmetrical_eyes}}, {{deformed_mouth}}, {{malformed_jaw}}, {{disfigured_teeth}},\n{{bad_anatomy}}, {{bad_proportions}}, {{anatomical_nonsense}},\n{{floating_limbs}}, {{disconnected_limbs}}, {{body_merge}}, {{fused_body}},\n{{bad_genitals}}, {{poorly_drawn_genitals}}, {{fused_genitals}}, {{misplaced_genitals}}, {{asymmetrical_breasts}}, {{bad_nipples}}, {{bad_penis}}, {{bad_pussy}}, {{bad_anus}},\n{{fused_clothing}}, {{clothing_clipping}}, {{poorly_drawn_clothing}},\n{{bad_perspective}}, {{inconsistent_scale}}, {{spatial_error}},\n{{bad_lighting}}, {{bad_shadow}}, {{inconsistent_lighting}},\nblurry, jpeg_artifacts, compression_artifacts, unfinished, error,\nwatermark, signature, text, logo, username,",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 6,
+    "smea": false,
+    "variety": false
   }
 }
